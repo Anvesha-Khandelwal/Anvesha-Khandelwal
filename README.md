@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi, I'm Anvesha Khandelwal ✨</h1>
+<h1 align="center"> Anvesha Khandelwal </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=8A2BE2&center=true&vCenter=true&width=600&lines=Web+Developer;AI+Enthusiast;Designer+%7C+Builder;Creating+Smooth+%26+Smart+Experiences+%F0%9F%9A%80" />
@@ -16,7 +16,7 @@
 ---
 
 ## 💼 Experience  
-_(Add real experiences as you grow — these are placeholders for now)_  
+_  
 - 🌐 Web Developer — Creating responsive and modern web interfaces  
 - 🤖 AI Explorer — Building intelligent tools & experimenting with ML basics  
 - 🎨 UI/UX Designer — Designing clean Figma prototypes  
@@ -66,9 +66,6 @@ HTML • CSS • JavaScript • React • Python • C • C++ • Firebase • 
 
 ---
 
-## 🏅 Holopin Badges  
-I haven’t added my badges yet — but here’s my Holopin board placeholder 👇  
-(Will update soon!)
 
 <p align="center">
   <img src="https://holopin.me/your_username" width="650" alt="Holopin Badge Board Placeholder"/>

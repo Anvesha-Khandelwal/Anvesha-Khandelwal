@@ -10,7 +10,6 @@
 - 🔭 Currently exploring **Web Development, AI-ML & DSA**  
 - ⚡ I enjoy designing aesthetic UIs and turning ideas into real projects  
 - 🎨 Love working on creative, meaningful solutions  
-- ✨ Projects I built: **Samaya**, **SafeLink**, **VisionVani**  
 - 🚀 Always learning, improving, and experimenting with new tech  
 
 ---
@@ -34,6 +33,7 @@ HTML • CSS • JavaScript • React • Python • C • C++ • Firebase • 
 - 🔒 **SafeLink** — Discreet women's safety platform  
 - ⏱️ **Samaya** — Automated timetable generator  
 - 👁️‍🗨️ **VisionVani** — AI visual chatbot  
+ - 👁️‍🗨️ **BookMyStay** — An experience booking site  
 
 👉 _Check my repositories to explore the source code._
 
@@ -64,16 +64,5 @@ HTML • CSS • JavaScript • React • Python • C • C++ • Firebase • 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anvesha-Khandelwal&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
----
 
-
-<p align="center">
-  <img src="https://holopin.me/your_username" width="650" alt="Holopin Badge Board Placeholder"/>
-</p>
-
----
-
-## ✨ Fun Outro  
-Just a healthy amount of **Anvesha** 😄  
-If you like my work, consider ⭐ starring my repositories!
 

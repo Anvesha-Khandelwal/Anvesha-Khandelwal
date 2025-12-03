@@ -1,18 +1,18 @@
 <div>
-<h2 align="left">About Me⭐️</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
-- 🔭 I'm a Web Developer and AI Enthusiast.
-- 🌱 Currently exploring Web Development, AI/ML & Data Structures.
-- 🎨 I enjoy designing aesthetic UIs and building meaningful projects.
-- 👩🏼‍💻 Passionate about creating smooth and smart digital experiences.
-- 🔎 I'm looking to collaborate on AI-based projects and Open Source contributions.
+- I'm a Web Developer and AI Enthusiast.
+- Currently exploring Web Development, AI/ML & Data Structures.
+- I enjoy designing aesthetic UIs and building meaningful projects.
+-Passionate about creating smooth and smart digital experiences.
+- I'm looking to collaborate on AI-based projects and Open Source contributions.
 
 </div>
 
 <div>
-<h2 align="left">Let's Connect🌐</h2>
+<h2 align="left">Let's Connect</h2>
 
 <a href="https://www.linkedin.com/in/anvesha-khandelwal-115778320/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="40" alt="linkedin logo" />
@@ -28,7 +28,7 @@
 
 <br>
 
-<h2 align="left">Tech Stack💻</h2>
+<h2 align="left">Tech Stack</h2>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js,react,html,css,python,cpp,c,firebase,git,github,figma,vscode" />
@@ -36,16 +36,16 @@
 
 <br>
 
-<h2 align="left">Featured Projects🚀</h2>
+<h2 align="left">Featured Projects</h2>
 
-- 🔒 **SafeLink** — Discreet women's safety platform with emergency features
-- ⏱️ **Samaya** — Intelligent automated timetable generator
-- 👁️‍🗨️ **VisionVani** — AI-powered visual assistant chatbot
-- 🏨 **BookMyStay** — Modern experience booking platform
+-  **SafeLink** — Discreet women's safety platform with emergency features
+-  **Samaya** — Intelligent automated timetable generator
+-  **VisionVani** — AI-powered visual assistant chatbot
+-  **BookMyStay** — Modern experience booking platform
 
 <br>
 
-<h2 align="left">Git Stats📊</h2>
+<h2 align="left">Git Stats</h2>
 
 <table>
   <tr>
@@ -69,5 +69,5 @@
 <br>
 
 <div align="center">
-  <i>Thanks for visiting! Feel free to explore my repositories and connect 💜</i>
+  <i>Thanks for visiting! Feel free to explore my repositories and connect </i>
 </div>

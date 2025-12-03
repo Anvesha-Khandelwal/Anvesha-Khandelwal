@@ -1,68 +1,60 @@
-<h1 align="center"> Anvesha Khandelwal </h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=8A2BE2&center=true&vCenter=true&width=600&lines=Web+Developer;AI+Enthusiast;Designer+%7C+Builder;Creating+Smooth+%26+Smart+Experiences+%F0%9F%9A%80" />
-</p>
+# Anvesha Khandelwal
 
----
+**Web Developer • AI Enthusiast • Designer**
 
-## 🌟 About Me  
-- 🔭 Currently exploring **Web Development, AI-ML & DSA**  
-- ⚡ I enjoy designing aesthetic UIs and turning ideas into real projects  
-- 🎨 Love working on creative, meaningful solutions  
-- 🚀 Always learning, improving, and experimenting with new tech  
+Building elegant solutions for meaningful problems
 
----
+<br>
 
-## 💼 Experience  
-_  
-- 🌐 Web Developer — Creating responsive and modern web interfaces  
-- 🤖 AI Explorer — Building intelligent tools & experimenting with ML basics  
-- 🎨 UI/UX Designer — Designing clean Figma prototypes  
-- 🛠️ Student Developer — Working on automation & frontend projects  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Anvesha-Khandelwal)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/anvesha-khandelwal-115778320/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail)](mailto:anveshak0906@gmail.com)
 
----
+</div>
 
-## 🛠️ Tech Stack  
-**Languages & Tools:**  
-HTML • CSS • JavaScript • React • Python • C • C++ • Firebase • Git • GitHub • Figma  
+<br>
 
----
+## About
 
-## 🔥 Featured Projects  
-- 🔒 **SafeLink** — Discreet women's safety platform  
-- ⏱️ **Samaya** — Automated timetable generator  
-- 👁️‍🗨️ **VisionVani** — AI visual chatbot  
- - 👁️‍🗨️ **BookMyStay** — An experience booking site  
+Exploring web development, artificial intelligence, and data structures. I create clean, functional interfaces and enjoy solving complex problems through code. Always learning, always building.
 
-👉 _Check my repositories to explore the source code._
+<br>
 
----
+## Tech Stack
 
-## 🌐 Find Me Online  
-<p align="left">
-  <a href="https://github.com/Anvesha-Khandelwal" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/anvesha-khandelwal-115778320/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="mailto:anveshak0906@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D23834?logo=gmail&style=for-the-badge" />
-  </a>
-</p>
+**Languages:** JavaScript, Python, C++, C, HTML, CSS  
+**Frontend:** React  
+**Tools:** Git, GitHub, Firebase, Figma
 
----
+<br>
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anvesha-Khandelwal&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anvesha-Khandelwal&theme=tokyonight&hide_border=true" height="160" />
-</p>
+## Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anvesha-Khandelwal&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
+**SafeLink** — Women's safety platform with discreet emergency features  
+**Samaya** — Automated timetable generator with smart scheduling  
+**VisionVani** — AI visual assistant chatbot  
+**BookMyStay** — Experience booking platform
 
+<br>
 
+## GitHub Stats
 
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Anvesha-Khandelwal&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anvesha-Khandelwal&layout=compact&theme=default&hide_border=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anvesha-Khandelwal&theme=default&hide_border=true)
+
+</div>
+
+<br>
+
+<div align="center">
+
+*Thanks for visiting*
+
+</div>

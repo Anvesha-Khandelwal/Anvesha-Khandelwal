@@ -1,68 +1,62 @@
-<h1 align="center"> Anvesha Khandelwal </h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=8A2BE2&center=true&vCenter=true&width=600&lines=Web+Developer;AI+Enthusiast;Designer+%7C+Builder;Creating+Smooth+%26+Smart+Experiences+%F0%9F%9A%80" />
-</p>
+# ✨ Anvesha Khandelwal
 
----
+### Web Developer • AI Enthusiast • Designer
 
-## 🌟 About Me  
-- 🔭 Currently exploring **Web Development, AI-ML & DSA**  
-- ⚡ I enjoy designing aesthetic UIs and turning ideas into real projects  
-- 🎨 Love working on creative, meaningful solutions  
-- 🚀 Always learning, improving, and experimenting with new tech  
+*Creating smooth & smart digital experiences*
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Anvesha-Khandelwal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anvesha-khandelwal-115778320/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:anveshak0906@gmail.com)
 
-## 💼 Experience  
-_  
-- 🌐 Web Developer — Creating responsive and modern web interfaces  
-- 🤖 AI Explorer — Building intelligent tools & experimenting with ML basics  
-- 🎨 UI/UX Designer — Designing clean Figma prototypes  
-- 🛠️ Student Developer — Working on automation & frontend projects  
+</div>
 
 ---
 
-## 🛠️ Tech Stack  
-**Languages & Tools:**  
-HTML • CSS • JavaScript • React • Python • C • C++ • Firebase • Git • GitHub • Figma  
+## 👋 About Me
+
+Currently exploring the intersection of web development and artificial intelligence. I enjoy crafting beautiful interfaces and building projects that solve real problems. Always learning, always building.
+
+**Focus Areas:** Web Development • AI/ML • Data Structures & Algorithms
 
 ---
 
-## 🔥 Featured Projects  
-- 🔒 **SafeLink** — Discreet women's safety platform  
-- ⏱️ **Samaya** — Automated timetable generator  
-- 👁️‍🗨️ **VisionVani** — AI visual chatbot  
- - 👁️‍🗨️ **BookMyStay** — An experience booking site  
+## 💻 Tech Stack
 
-👉 _Check my repositories to explore the source code._
-
----
-
-## 🌐 Find Me Online  
-<p align="left">
-  <a href="https://github.com/Anvesha-Khandelwal" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/anvesha-khandelwal-115778320/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="mailto:anveshak0906@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D23834?logo=gmail&style=for-the-badge" />
-  </a>
-</p>
+```text
+Languages    →  JavaScript • Python • C++ • C • HTML • CSS
+Frameworks   →  React • Firebase
+Tools        →  Git • GitHub • Figma
+```
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anvesha-Khandelwal&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anvesha-Khandelwal&theme=tokyonight&hide_border=true" height="160" />
-</p>
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anvesha-Khandelwal&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
+**SafeLink** – Discreet women's safety platform with smart features  
+**Samaya** – Intelligent automated timetable generator  
+**VisionVani** – AI-powered visual assistant chatbot  
+**BookMyStay** – Modern experience booking platform
 
+*Explore the code in my repositories below* ↓
 
+---
 
+<div align="center">
+
+## 📈 GitHub Analytics
+
+<img src="https://github-readme-stats.vercel.app/api?username=Anvesha-Khandelwal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=C9D1D9&count_private=true" alt="GitHub Stats" width="495" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Anvesha-Khandelwal&theme=radical&hide_border=true&background=0D1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" alt="GitHub Streak" width="495" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anvesha-Khandelwal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=C9D1D9&langs_count=6" alt="Top Languages" width="495" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anvesha-Khandelwal&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8A2BE2&line=8A2BE2&point=C9D1D9" alt="Contribution Graph" width="100%" />
+
+---
+
+*Thanks for stopping by! Feel free to explore my work and connect* 💜
+
+</div>

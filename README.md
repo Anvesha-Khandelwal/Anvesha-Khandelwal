@@ -7,7 +7,7 @@
 - Currently exploring Web Development, AI/ML & Data Structures.
 - I enjoy designing aesthetic UIs and building meaningful projects.
 -Passionate about creating smooth and smart digital experiences.
-- I'm looking to collaborate on AI-based projects and Open Source contributions.
+
 
 </div>
 

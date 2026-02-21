@@ -3,8 +3,8 @@
 
 ###
 
-- I'm a Web Developer and AI Enthusiast.
-- Currently exploring Web Development, AI/ML & Data Structures.
+- I'm a Full Stack Developer and AI Enthusiast.
+- Currently exploring Full Stack Development, AI/ML & Data Structures.
 - I enjoy designing aesthetic UIs and building meaningful projects.
 -Passionate about creating smooth and smart digital experiences.
 

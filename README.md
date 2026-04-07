@@ -93,26 +93,9 @@ I'm a **Full Stack Developer & AI Engineer** based in India, building products a
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Anvesha-Khandelwal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&cache_seconds=1800" />
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anvesha-Khandelwal&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=12&hide=html&cache_seconds=1800" />
-
-<br/><br/>
 
 <!-- streak-stats.demolab.com = official maintained source, does not freeze -->
 <img width="68%" src="https://streak-stats.demolab.com/?user=Anvesha-Khandelwal&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D&cache_seconds=1800" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anvesha-Khandelwal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 

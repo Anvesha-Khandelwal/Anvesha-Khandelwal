@@ -1,20 +1,28 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Anvesha%20Khandelwal&fontSize=52&fontColor=e0f7fa&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Product%20Builder&descAlignY=58&descColor=90caf9&animation=fadeIn" />
-
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=64B5F6&center=true&vCenter=true&width=600&lines=Building+products+that+matter.;AI+%2B+Full+Stack+%3D+Limitless+scope.;Code.+Design.+Ship.+Repeat." alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Anvesha%20Khandelwal&fontSize=56&fontColor=e0f7fa&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Product%20Builder&descAlignY=60&descColor=90caf9&animation=fadeIn" />
 
 <br/>
 
-<!-- PROFILE VIEWS + FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=Anvesha-Khandelwal&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<!-- TYPING SVG — demolab is stable and fast -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=64B5F6&center=true&vCenter=true&width=650&lines=Building+products+that+matter.;AI+%2B+Full+Stack+%3D+Limitless+possibilities.;Code.+Design.+Ship.+Repeat.;Turning+ideas+into+intelligent+systems." alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- CLEAN PROFESSIONAL BADGES — no profile views, just signal -->
+<a href="https://github.com/Anvesha-Khandelwal">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Full%20Stack%20%7C%20AI%20Roles-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 &nbsp;
-<a href="https://github.com/Anvesha-Khandelwal?tab=followers">
-  <img src="https://img.shields.io/github/followers/Anvesha-Khandelwal?label=Followers&style=for-the-badge&color=0e75b6&labelColor=0d1117" />
+<a href="https://www.linkedin.com/in/anvesha-khandelwal-115778320/">
+  <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:anveshak0906@gmail.com">
+  <img src="https://img.shields.io/badge/Reach%20Me-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -25,28 +33,13 @@
 
 > *"Ship fast, think deep, build things that outlast the sprint."*
 
-I'm a **Full Stack Developer & AI Enthusiast** based in India, focused on building products at the intersection of clean engineering and meaningful user experience. I care deeply about code architecture, design systems, and the kind of AI-native products that actually solve real problems — not just demos.
+I'm a **Full Stack Developer & AI Engineer** based in India, building products at the intersection of clean engineering and meaningful user experience. I care deeply about system architecture, design consistency, and AI-native products that solve real problems — not just demos.
 
-- 🔭 Currently building in the space of **AI-powered applications** and **Full Stack systems**
-- 🧠 Deep-diving into **ML pipelines**, **LLM integrations**, and **scalable backend design**
-- 🎨 Obsessed with aesthetic UIs that don't compromise on performance
-- 💡 Believer in: *"Make it work. Make it right. Make it fast."*
-
----
-
-## 🔗 Connect
-
-<a href="https://www.linkedin.com/in/anvesha-khandelwal-115778320/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Anvesha%20Khandelwal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:anveshak0906@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-anveshak0906@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/Anvesha-Khandelwal" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Anvesha--Khandelwal-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+- 🔭 Currently building **AI-powered applications** and **scalable full stack systems**
+- 🧠 Deep-diving into **LLM integrations**, **ML pipelines**, and **NLP workflows**
+- 🎨 Obsessed with aesthetic UIs that don't sacrifice performance
+- 📊 Exploring **data science tooling** — from EDA to production-ready models
+- 💡 Mantra: *Make it work. Make it right. Make it fast.*
 
 ---
 
@@ -59,11 +52,23 @@ I'm a **Full Stack Developer & AI Enthusiast** based in India, focused on buildi
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend & Languages**
+**Languages & Backend**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**AI / ML & Data Science**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge&logo=spacy&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM%20Integration-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
 
 **Tools & Platforms**
 
@@ -79,27 +84,25 @@ I'm a **Full Stack Developer & AI Enthusiast** based in India, focused on buildi
 
 | Project | Description | Stack |
 |---|---|---|
-| 🛡️ **SafeLink** | Discreet women's safety platform with real-time emergency features and location tracking | React, Firebase, JS |
-| 📅 **Samaya** | Intelligent automated timetable generator with constraint-based scheduling | Python, React |
-| 🤖 **VisionVani** | AI-powered visual assistant chatbot — multimodal input, smart responses | Python, AI/ML APIs |
-| 🏨 **BookMyStay** | Modern, full-featured experience booking platform with seamless UX | React, Firebase |
+| 🛡️ **SafeLink** | Discreet women's safety platform with real-time emergency features and live location tracking | React, Firebase, JS |
+| 📅 **Samaya** | Intelligent automated timetable generator with constraint-based scheduling logic | Python, React |
+| 🤖 **VisionVani** | AI-powered visual assistant chatbot — multimodal input, context-aware smart responses | Python, NLP, LLM APIs |
+| 🏨 **BookMyStay** | Modern full-featured experience booking platform with seamless, responsive UX | React, Firebase |
 
 ---
 
 ## 📊 GitHub Stats
 
-<!-- NOTE: These use the most reliable, non-freezing endpoints with cache-busting -->
-
 <div align="center">
 
-<!-- ROW 1 -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anvesha-Khandelwal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&cache_seconds=1800" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Anvesha-Khandelwal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&cache_seconds=1800" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anvesha-Khandelwal&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=12&hide=html&cache_seconds=1800" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anvesha-Khandelwal&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=12&hide=html&cache_seconds=1800" />
 
-<!-- ROW 2: STREAK — uses the most stable provider -->
-<br/>
-<img width="70%" src="https://streak-stats.demolab.com/?user=Anvesha-Khandelwal&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D" />
+<br/><br/>
+
+<!-- streak-stats.demolab.com = official maintained source, does not freeze -->
+<img width="68%" src="https://streak-stats.demolab.com/?user=Anvesha-Khandelwal&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D&cache_seconds=1800" />
 
 </div>
 
@@ -108,7 +111,9 @@ I'm a **Full Stack Developer & AI Enthusiast** based in India, focused on buildi
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anvesha-Khandelwal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Anvesha-Khandelwal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+
 </div>
 
 ---
@@ -116,7 +121,9 @@ I'm a **Full Stack Developer & AI Enthusiast** based in India, focused on buildi
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anvesha-Khandelwal&theme=tokyo-night&hide_border=true&radius=12&area=true" />
+
+<img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anvesha-Khandelwal&theme=tokyo-night&hide_border=true&radius=12&area=true&area_color=1a73e8" />
+
 </div>
 
 ---
@@ -125,7 +132,7 @@ I'm a **Full Stack Developer & AI Enthusiast** based in India, focused on buildi
 
 **Open to full-time roles, internships, and high-signal collaborations.**
 
-*If you're building something ambitious — let's talk.*
+*If you're building something ambitious — I'd love to be part of it.*
 
 <br/>
 

@@ -84,9 +84,9 @@ I'm a **Full Stack Developer & AI Engineer** based in India, building products a
 
 | Project | Description | Stack |
 |---|---|---|
-| 🛡️ **SafeLink** | Discreet women's safety platform with real-time emergency features and live location tracking | React, Firebase, JS |
-| 📅 **Samaya** | Intelligent automated timetable generator with constraint-based scheduling logic | Python, React |
-| 🤖 **VisionVani** | AI-powered visual assistant chatbot — multimodal input, context-aware smart responses | Python, NLP, LLM APIs |
+| 🛡️ **Career Line Coaching** | Show the details, timetable and other stuff| Html,CSS, JS |
+| 📅 **Ciesta** | Made for the Dept fest of Computer Science Department | Python, React |
+| 🤖 **VoiceBridge** | AI-powered assistant chatbot — multimodal input, context-aware smart responses | Python, NLP, LLM APIs |
 | 🏨 **BookMyStay** | Modern full-featured experience booking platform with seamless, responsive UX | React, Firebase |
 
 ---

@@ -31,7 +31,6 @@
 
 ## 👩‍💻 About Me
 
-> *"Ship fast, think deep, build things that outlast the sprint."*
 
 I'm a **Full Stack Developer & AI Engineer** based in India, building products at the intersection of clean engineering and meaningful user experience. I care deeply about system architecture, design consistency, and AI-native products that solve real problems — not just demos.
 

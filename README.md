@@ -83,10 +83,10 @@ I'm a **Full Stack Developer & AI Engineer** based in India, building products a
 
 | Project | Description | Stack |
 |---|---|---|
-| 🛡️ **Career Line Coaching** | Show the details, timetable and other stuff| Html,CSS, JS |
-| 📅 **Ciesta** | Made for the Dept fest of Computer Science Department | Python, React |
+| 📅 **Career Line Coaching** | Show the details, timetable and other stuff| Html,CSS, JS |
+| ✨ **Ciesta** | Made for the Dept fest of Computer Science Department |Html,CSS, JS, React |
 | 🤖 **VoiceBridge** | AI-powered assistant chatbot — multimodal input, context-aware smart responses | Python, NLP, LLM APIs |
-| 🏨 **BookMyStay** | Modern full-featured experience booking platform with seamless, responsive UX | React, Firebase |
+| 🏨 **BookMyStay** | Modern full-featured experience booking platform with seamless, responsive UX | Html,CSS, JS ,React, Firebase |
 
 ---
 

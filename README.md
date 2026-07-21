@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Anvesha%20Khandelwal&fontSize=52&fontColor=e0f7fa&fontAlignY=40&desc=AI%2FML%20Engineer%20in%20training%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=60&descColor=90caf9&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Anvesha%20Khandelwal&fontSize=52&fontColor=e0f7fa&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%2FML%20Builder&descAlignY=60&descColor=90caf9&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=64B5F6&center=true&vCenter=true&width=650&lines=Building+RAG+pipelines+and+full-stack+systems.;Currently+deep+in+transformers%2C+LoRA%2C+and+LLMs.;2nd-year+CSE+%40+DSCE+Bangalore." alt="Typing SVG" />
@@ -90,14 +90,15 @@ Second-year Computer Science Engineering student at Dayananda Sagar College of E
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Anvesha-Khandelwal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anvesha-Khandelwal&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anvesha-Khandelwal&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+<img src="https://img.shields.io/github/followers/Anvesha-Khandelwal?style=for-the-badge&color=64B5F6&labelColor=0f2027" />
+&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Anvesha-Khandelwal&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=64B5F6&labelColor=0f2027" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/Anvesha-Khandelwal?affiliations=OWNER&style=for-the-badge&color=64B5F6&labelColor=0f2027" />
 
 </div>
+
+> These pull live from the GitHub API via shields.io — no third-party stats service, so no downtime.
 
 ---
 

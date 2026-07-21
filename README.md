@@ -89,7 +89,14 @@ Second-year Computer Science Engineering student at Dayananda Sagar College of E
 ## GitHub Stats
 
 <div align="center">
-<img width="60%" src="https://streak-stats.demolab.com/?user=Anvesha-Khandelwal&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D&cache_seconds=1800" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Anvesha-Khandelwal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anvesha-Khandelwal&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Anvesha-Khandelwal&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+
 </div>
 
 ---
